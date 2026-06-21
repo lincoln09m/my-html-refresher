@@ -2,5 +2,21 @@
 This is just a little project I made with help from Macondo and Hackclub to brush up on my html skills!
 
 ## Preview
+<!DOCTYPE html>
+<html>
+  <head>
+    <title class="text-4xl font-bold text-blue-500">>Lincolns Website!!!</title>
+       <script src="https://cdn.tailwindcss.com">
+      </script>
+  </head>
+   
+  <body>
+    <h1 class="text-blue-500">
+      About me:</h1>
+    <p>Welcome to my website! I love learning more about computors and plan on keeping this updated as a portfolio as time goes on!</p>
+    <img src="https://en.wikipedia.org/wiki/Computer#/media/File:ThinkCentre_S50.jpg"  />
 
+    <h1> <p>Please find all my projects below(More to come soon!)</p></h1>
+  </body>
+</html>
 
